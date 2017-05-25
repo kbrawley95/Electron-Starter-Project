@@ -1,0 +1,19 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "Basic Electon Project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbrawley95/Electron-Starter-Project.git"
+  },
+  "author": "Kieran <kieran.brawley95@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kbrawley95/Electron-Starter-Project/issues"
+  },
+  "homepage": "https://github.com/kbrawley95/Electron-Starter-Project#readme"
+}
