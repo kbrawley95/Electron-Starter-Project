@@ -21,4 +21,4 @@ Before development with Electron can commence, a some setup is required:
     - This can be done using the following command: **npm install -g electron --dev-save**. This installs electron as globally, adding it to your system path.
     - Optional: In order to deploy the your applications to your choosen platform, a extension is required. 
       One example is electron-packager. This can be install using the following command: **npm install -g electron-packager --dev-    save**.
-    - Documentation on configuring the packager for Linux, Mac, & Windows executables can be found [here] (https://github.com/electron-userland/electron-packager/blob/master/docs/api.md)
+    - Documentation on configuring the packager for Linux, Mac, & Windows executables can be found [here](https://github.com/electron-userland/electron-packager/blob/master/docs/api.md)
