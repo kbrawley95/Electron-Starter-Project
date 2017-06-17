@@ -6,7 +6,7 @@ This repo is tailored to those who have an interest in learning Electron; the op
 
 ## Setting Up Electron
 
-Before development with Electron can commence, a some setup is required:
+Before development with Electron can commence, some setup is required:
 
 1. Acquire a text editor (e.g. Atom, Visual Studio Code)
 
